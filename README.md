@@ -52,7 +52,7 @@ Phishing succeeds by exploiting **trust and urgency**, not technical flaws. Slow
 
 ## 👤 Author
 
-**Prayas Vijay**
+**Pulkit Chawla**
 
 B.Tech. CSE Student
 
